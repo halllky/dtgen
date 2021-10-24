@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "decision-table-generator": {
+      "commandName": "Project",
+      "commandLineArgs": "条件1:y,n 条件2: 条件3:1,2,3,4 条件4 -c \"IF 条件1 == y THEN 条件3 IN 1,2,4\" -c \"if 条件2 != F then 条件1 = n\" -a aaa -H",
+      "nativeDebugging": true
+    }
+  }
+}
