@@ -11,6 +11,7 @@ namespace DTGen
 
             app.Name = "decision table generator";
             app.HelpOption("-h|--help");
+            app.VersionOption("-v|--version", Environment.Version.ToString());
 
             var conditions = app.Argument(
                 name: "condition",
