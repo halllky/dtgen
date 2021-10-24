@@ -5,7 +5,7 @@ CLIでデシジョンテーブル（決定表）を生成します。
 
 ## Usage 使い方
 
-[Download](https://github.com/halllky/dtgen/wiki)
+[Download](https://github.com/halllky/dtgen/releases/tag/main)
 
 - You can download the binary from the link above or build it yourself.   
   上記リンクからバイナリをダウンロードするか、自身でビルドしてください。
