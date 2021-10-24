@@ -15,6 +15,11 @@ Input
 dtgen MyCondition1:YES,NO MyCondition2:A,B,C
 ```
 
+Input (with `doenet` command)
+```
+dotnet dtgen.dll MyCondition1:YES,NO MyCondition2:A,B,C
+```
+
 Output  
 ![](README_images/2021-10-24-13-32-18.png)
 
