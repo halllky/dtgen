@@ -5,7 +5,9 @@ CLIでデシジョンテーブル（決定表）を生成します。
 
 ## Usage 使い方
 
-- Download binary from [./build](./build) or build by yourself please.  
+[Download](https://github.com/halllky/dtgen/wiki)
+
+- You can download the binary from the link above or build it yourself.   
   上記リンクからバイナリをダウンロードするか、自身でビルドしてください。
 - Enter the test conditions and the possible values for each condition, such as `condition1:value1,value2`  
   テストの条件およびそれぞれの条件がとりうる値を `条件1:値1,値2` のように入力してください。
